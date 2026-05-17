@@ -1,3 +1,53 @@
-# Blog
+# Projeto Blog Django
 
-Este é o blog que foi criado no curso de Python de Luiz Otávio Miranda.
+Nome do aluno: Ithalo
+
+Nome da disciplina: [coloque aqui o nome da disciplina]
+
+Nome do projeto: Projeto Blog Django
+
+## Descricao
+
+Este projeto Django foi adaptado para uma atividade academica com o tema
+TECNOLOGIA. A interface principal agora exibe o nome "TechBlog Escolar" e a
+frase "TechBlog Escolar — noticias e curiosidades sobre tecnologia". Tambem
+foram adicionados registros de teste sobre inteligencia artificial, seguranca
+digital, programacao e inovacao.
+
+## Como rodar localmente
+
+Entre na pasta do projeto:
+
+```bash
+cd djangoapp
+```
+
+Instale as dependencias:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Execute as migrations:
+
+```bash
+python manage.py migrate
+```
+
+Inicie o servidor local:
+
+```bash
+python manage.py runserver
+```
+
+Acesse no navegador:
+
+```text
+http://127.0.0.1:8000/
+```
+
+## Print da interface
+
+> Substitua o caminho abaixo pelo print real depois de rodar o projeto.
+
+![Print da interface](./prints/interface-blog.png)

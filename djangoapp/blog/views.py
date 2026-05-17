@@ -8,7 +8,7 @@ from django.http import Http404
 from django.shortcuts import redirect
 from django.views.generic import DetailView, ListView
 
-PER_PAGE = 9
+PER_PAGE = 3
 
 
 class PostListView(ListView):
