@@ -50,8 +50,6 @@ http://127.0.0.1:8000/
 
 ## Print da interface
 
-> Substitua o caminho abaixo pelo print real depois de rodar o projeto.
+<img width="728" height="407" alt="blog web II" src="https://github.com/user-attachments/assets/12512eeb-216f-459a-8c84-9782ec18a3d2" />
 
-![Print da interface]<img width="728" height="407" alt="blog web II" src="https://github.com/user-attachments/assets/12512eeb-216f-459a-8c84-9782ec18a3d2" />
-)
 
