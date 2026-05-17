@@ -16,4 +16,5 @@ Identidade Visual: O nome principal (título) do site foi alterado para refletir
 🖥️ Interface do Projeto
 Abaixo, uma captura de tela demonstrando o blog em execução:
 
-<img width="1256" height="617" alt="web ii blog" src="https://github.com/user-attachments/assets/ce60bdbe-62b7-47ba-b86e-658fe13ad230" />
+<img width="728" height="407" alt="blog web II" src="https://github.com/user-attachments/assets/9949aa5b-c53c-4544-b195-ac6bea75b678" />
+
