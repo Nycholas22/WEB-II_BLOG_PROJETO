@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Projeto Blog Django
 
-Nome do aluno: Ithalo
+Nome do aluno: Nycholas
 
-Nome da disciplina: [coloque aqui o nome da disciplina]
+Nome da disciplina: WEB II
 
 Nome do projeto: Projeto Blog Django
 
